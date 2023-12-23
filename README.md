@@ -105,4 +105,3 @@ Note:
 
 The Hybrid GRU-LSTM Model is based on [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8237341/#supplemental-informationtitle) and the Graph Transformer is based on [2](https://www.kaggle.com/code/mrkmakr/covid-ae-pretrain-gnn-attn-cnn/) open-source implementation.
 
-Licensed under the [MIT License](https://github.com/vicky157/mRNA-Vaccine-Degradation-Prediction/blob/main/LICENSE.md)
